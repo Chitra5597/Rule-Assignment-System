@@ -21,3 +21,16 @@ This system provides a complete solution for creating, managing, and visualizing
 **Full Problem Statement**: See [problem-statement.md](problem-statement.md)
 
 ---
+
+## Solution Report
+
+Implemented the full proof solution with Database design and Rest API with frontend web interface for complex hierarchical rule structures system.
+- Designed database entities with ERD
+- Added migration script and database tables
+- Created PHP backend with Rest API
+- Generated vue.js web application interface for Rule Management system.
+- Generated solutioning report
+- Added References and Issues occurred with Screenshots
+
+**Full Problem Solution**: See [solution-report.md](solution-report.md)
+---
